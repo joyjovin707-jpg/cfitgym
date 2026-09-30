@@ -1,0 +1,6 @@
+{
+  "name": "C-fit — Gym Management System",
+  "description": "Full-featured C-fit gym management platform backed by SQLite database for members, trainers, attendance tracking, payments, and class scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
